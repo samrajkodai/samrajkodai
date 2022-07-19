@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrajkodai&label=Profile%20views&color=0e75b6&style=flat" alt="samrajkodai" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://samraja.herokuapp.com/](https://samraja.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://asamraja.herokuapp.com/](https://asamraja.herokuapp.com/)
 
 - 📫 How to reach me **samcse04335h@gmail.com, 9080224579**
 
