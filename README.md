@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://asamraja.herokuapp.com/](https://asamraja.herokuapp.com/)
 
-- 📫 How to reach me **srakodai@gmail.com., 9080224579.**
+- 📫 How to reach me **srakodai@gmail.com, 9080224579.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
