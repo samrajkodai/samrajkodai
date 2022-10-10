@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **srakodai@gmail.com, 9080224579.**
 
-- 💻 Developing nlu engine  
+- 💻 **Developing nlu engine to made a chatbots in easy way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
