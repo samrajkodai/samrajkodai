@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋👋, I'm Samraj</h1>
-<h3 align="center">Working as a Chatbot Developer.</h3>
+<h3 align="center">Working as a Chatbot Developer and Techincal Support.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrajkodai&label=Profile%20views&color=0e75b6&style=flat" alt="samrajkodai" /> </p>
 
