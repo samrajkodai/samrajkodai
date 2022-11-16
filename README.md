@@ -12,6 +12,7 @@
 - 💻 **Developing nlu engine to made a chatbots in easy way.**
 
 
+
 <!-- Connect with me -->
 
 <h2 style="color: #44AEFB">👨‍💻 Connect with me</h2>
@@ -116,7 +117,6 @@
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
