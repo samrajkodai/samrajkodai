@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrajkodai&label=Profile%20views&color=0e75b6&style=flat" alt="samrajkodai" /> </p>
 
-- 👨‍💻 All of my projects are available at https://asamraja.herokuapp.com/
+- 👨‍💻 All of my projects are available at https://web-production-1e41.up.railway.app/login?next=/
 
 - 📫 How to reach me **srakodai@gmail.com, 9080224579.**
 
